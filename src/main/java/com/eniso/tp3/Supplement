@@ -1,0 +1,4 @@
+
+--"equals()"  Compare le contenu des deux chaînes, en tenant compte de la casse et envoie true si les deux chaînes ont le même contenu exact, caractère par caractère.
+--"equalsIgnoreCase()"  Compare le contenu des deux chaînes, en ignorant la casse et renvoie true si les deux chaînes ont le même contenu, même si les lettres majuscules et minuscules sont différentes.
+--"==" et "=!" Renvoie true si les deux arguments sont le même objet, même si leurs contenus sont différents.
